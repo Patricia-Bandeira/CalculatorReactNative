@@ -143,6 +143,7 @@ __*Adicionando TextInput*__
 ```
 ![image](https://user-images.githubusercontent.com/92181116/138225143-5d6208a3-5756-4083-81ca-b530513cb3e7.png)
 
+
 3.Subtração
 ```
 {/*SUBTRAÇÃO*/}
@@ -158,6 +159,7 @@ __*Adicionando TextInput*__
 
 
    4.Divisão
+   ```
 {/*DIVISÃO*/}
        <TouchableHighlight 
       style={estilo.div}
