@@ -130,6 +130,8 @@ __*Adicionando TextInput*__
       <Text style={estilo.letSOMA}> SOMAR </Text>
       </TouchableHighlight>
 ```
+![image](https://user-images.githubusercontent.com/92181116/138225080-60fef7f4-2b1f-4412-890d-e2111029ed38.png)
+
 2.Multiplicação
 ```
 {/*MULTIPLICAÇÃO*/}
@@ -139,6 +141,8 @@ __*Adicionando TextInput*__
       <Text style={estilo.letMULT}> MULTIPLICAR </Text>
       </TouchableHighlight>
 ```
+![image](https://user-images.githubusercontent.com/92181116/138225143-5d6208a3-5756-4083-81ca-b530513cb3e7.png)
+
 3.Subtração
 ```
 {/*SUBTRAÇÃO*/}
@@ -148,6 +152,8 @@ __*Adicionando TextInput*__
       <Text style={estilo.letSUB}> SUBITRAÇÃO </Text>
       </TouchableHighlight>
       ```
+      ![image](https://user-images.githubusercontent.com/92181116/138225190-cdd0579e-422f-4924-95e9-837e09020cdf.png)
+
    4.Divisão
 {/*DIVISÃO*/}
        <TouchableHighlight 
