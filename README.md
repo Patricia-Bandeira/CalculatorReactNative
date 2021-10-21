@@ -7,13 +7,16 @@
 
 
 Cod:
+
+__*Inportando itens necessários*__
 ```
 import React, {useState} from 'react';
 import { Text, View, StyleSheet, TextInput, TouchableHighlight, Vibration } from 'react-native';
 import Constants from 'expo-constants';
 
 export default function App() {
-
+```
+```
 const [valor1,setValor1]=useState(0);
 const [valor2,setValor2]=useState(0);
 const [resultado,setResultado]=useState(0);
