@@ -151,7 +151,8 @@ __*Adicionando TextInput*__
       onPress={()=>sub()}>
       <Text style={estilo.letSUB}> SUBITRAÇÃO </Text>
       </TouchableHighlight>
-      
+      ```
+      __*Adicionando TextInput*__
       ![image](https://user-images.githubusercontent.com/92181116/138225190-cdd0579e-422f-4924-95e9-837e09020cdf.png)
 
 
