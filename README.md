@@ -91,6 +91,7 @@ __*Adicionei um quadrado invisível para que a calculadora fica-se no meio*__
 #
 __*Título*__
       `<Text style={estilo.titulo}> CALCULADORA </Text>` 
+      
   ![image](https://user-images.githubusercontent.com/92181116/138224022-8565a8f8-a2cb-4e90-8f54-c1d3a0dafeac.png)
     
 ##      
