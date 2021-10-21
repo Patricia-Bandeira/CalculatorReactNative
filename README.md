@@ -151,12 +151,12 @@ __*Adicionando TextInput*__
       style={estilo.sub}
       onPress={()=>sub()}>
       <Text style={estilo.letSUB}> SUBITRAÇÃO </Text>
-      </TouchableHighlight>
-       
+      </TouchableHighlight>       
   ```
    
     
-   
+    ![image](https://user-images.githubusercontent.com/92181116/138225190-cdd0579e-422f-4924-95e9-837e09020cdf.png) 
+    
    4.Divisão
  ```  
 {/*DIVISÃO*/}
