@@ -86,10 +86,13 @@ __*Adicionei um quadrado invisível para que a calculadora fica-se no meio*__
      <View style={{height: 70, width: 280, backgroundColor:'#836FFF'}}/>
    </View>
 ```
+![image](https://user-images.githubusercontent.com/92181116/138223988-81ff3553-fb15-4be6-a80e-ab4588034603.png)
+
 #
 __*Título*__
       `<Text style={estilo.titulo}> CALCULADORA </Text>` 
-      
+  ![image](https://user-images.githubusercontent.com/92181116/138224022-8565a8f8-a2cb-4e90-8f54-c1d3a0dafeac.png)
+    
 ##      
 __*Adicionando TextInput*__
 
