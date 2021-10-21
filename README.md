@@ -148,6 +148,7 @@ __*Adicionando TextInput*__
       <Text style={estilo.letSUB}> SUBITRAÇÃO </Text>
       </TouchableHighlight>
       ```
+   4.Divisão
 {/*DIVISÃO*/}
        <TouchableHighlight 
       style={estilo.div}
