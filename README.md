@@ -150,11 +150,10 @@ __*Adicionando TextInput*__
        <TouchableHighlight 
       style={estilo.sub}
       onPress={()=>sub()}>
-      <Text style={estilo.letSUB}> SUBITRAÇÃO </Text>
+      <Text style={estilo.letSUB}> SUBTRAÇÃO </Text>
       </TouchableHighlight>       
   ``` 
- 
- ![image](https://user-images.githubusercontent.com/92181116/138353332-2c1f7afc-6391-45c9-81d1-c6b0acf5847d.png)
+ ![image](https://user-images.githubusercontent.com/92181116/138353486-4dcd8895-2934-4ea9-bea7-7d59931fa163.png)
    
    4.Divisão
  ```  
