@@ -16,11 +16,17 @@ import Constants from 'expo-constants';
 
 export default function App() {
 ```
+
+
+__*Criando variáveis*__ - Valo1, Valor2 e Resultado
 ```
 const [valor1,setValor1]=useState(0);
 const [valor2,setValor2]=useState(0);
 const [resultado,setResultado]=useState(0);
+``` 
 
+__*Adicionando funções*__
+```
 const soma = ()=>{
   setResultado(parseFloat(valor1)+parseFloat(valor2))
 }
