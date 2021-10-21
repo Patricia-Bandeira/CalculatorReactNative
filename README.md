@@ -89,7 +89,7 @@ __*Adicionei um quadrado invisível para que a calculadora fica-se no meio*__
 #
 __*Título*__
       `<Text style={estilo.titulo}> CALCULADORA </Text>` 
-      __*Título*__
+__*Adicionando TextInput*__
       
       
      
