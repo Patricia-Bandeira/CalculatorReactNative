@@ -6,7 +6,7 @@
 ![image](https://user-images.githubusercontent.com/92181116/138354427-fe97887f-c39e-468b-8904-f9b9ff5e6e5a.png)
 
 
->>>>>>>>>>>>>>>Código:>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Código:
 
 __*Inportando itens necessários*__
 ```
