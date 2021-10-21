@@ -92,21 +92,20 @@ __*Título*__
       
       
      
-      
+      ```
       <TextInput
       style={estilo.display}
       keyboardType='numeric'
       value={String(valor1)}
       onChangeText={(texto)=> setValor1(texto)}/>
-    
+    ```
     
     
      <TextInput
       style={estilo.display}
       keyboardType='numeric'
       value={String(valor2)}
-      onChangeText={(texto)=> setValor2(texto)}
-      /> 
+      onChangeText={(texto)=> setValor2(texto)}/> 
       
     
     
@@ -114,8 +113,7 @@ __*Título*__
       style={estilo.display}
       keyboardType='numeric'
       value={String(resultado)}
-      onChangeText={(texto)=> setResultado(texto)}
-      /> 
+      onChangeText={(texto)=> setResultado(texto)}/> 
     
     
     
