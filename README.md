@@ -121,6 +121,7 @@ __*Adicionando TextInput*__
 
   #
   __*Adicionando Botões*__  
+  1.Soma
   ```
 {/*SOMA*/}
       <TouchableHighlight 
@@ -129,14 +130,15 @@ __*Adicionando TextInput*__
       <Text style={estilo.letSOMA}> SOMAR </Text>
       </TouchableHighlight>
 ```
+2.Multiplicação
+```
 {/*MULTIPLICAÇÃO*/}
        <TouchableHighlight 
       style={estilo.mult}
-      onPress={()=>mult()}
-      >
+      onPress={()=>mult()}>
       <Text style={estilo.letMULT}> MULTIPLICAR </Text>
       </TouchableHighlight>
-
+```
 {/*SUBTRAÇÃO*/}
        <TouchableHighlight 
       style={estilo.sub}
