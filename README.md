@@ -3,7 +3,7 @@
 
 [Click here](https://snack.expo.dev/@patriciaban/a7b665)
 ##
-![image](https://user-images.githubusercontent.com/92181116/138354427-fe97887f-c39e-468b-8904-f9b9ff5e6e5a.png)
+![image](https://user-images.githubusercontent.com/92181116/138356880-c4165274-5abc-45b0-aba4-487319a73b45.png)
 
 
 >>>>>>>>>>Código:
