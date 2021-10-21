@@ -16,7 +16,7 @@ import Constants from 'expo-constants';
 
 export default function App() {
 ```
-
+#
 
 __*Criando variáveis*__ - Valo1, Valor2 e Resultado
 ```
@@ -24,7 +24,7 @@ const [valor1,setValor1]=useState(0);
 const [valor2,setValor2]=useState(0);
 const [resultado,setResultado]=useState(0);
 ``` 
-
+#
 __*Adicionando funções*__
 
 1.Soma
@@ -33,24 +33,29 @@ const soma = ()=>{
   setResultado(parseFloat(valor1)+parseFloat(valor2))
 }
 ```
+
+
 2.Multiplicação
 ```
 const mult = ()=>{
   setResultado(parseFloat(valor1)*parseFloat(valor2))
 }
 ```
+
 3.Subtraçao
 ```
 const sub = ()=>{
   setResultado(parseFloat(valor1)-parseFloat(valor2))
 }
 ```
+
 4.Divisão
 ```
 const div = ()=>{
   setResultado(parseFloat(valor1)/parseFloat(valor2))
 }
 ```
+
 5.Limpador
 ```
 const limpa = ()=>{
@@ -59,6 +64,8 @@ const limpa = ()=>{
   setResultado(0);
 }
 ```
+#
+
 __*Linha branca no início da tela*__
 ```
   return (
@@ -71,7 +78,7 @@ __*Linha branca no início da tela*__
 ```
 ![image](https://user-images.githubusercontent.com/92181116/138220138-061a088f-ade5-4bfc-9ab8-7f4e9b1db99d.png)
 
-  
+# 
 ```
 
    <View style={{resizeMode:'center',paddingLeft: 40, paddingRight: 40,}}>
