@@ -168,6 +168,8 @@ __*Adicionando TextInput*__
       <Text style={estilo.letDIV}> DIVISÃO </Text>
       </TouchableHighlight>
 ```
+5.Limpar
+```
 {/* BOTÂO LIMPAR*/}
       <TouchableHighlight 
       style={estilo.limpa}
@@ -175,6 +177,8 @@ __*Adicionando TextInput*__
       >
       <Text style={estilo.letSOMA}> LIMPAR </Text>
       </TouchableHighlight>
+```
+
 
     </View>
   );
