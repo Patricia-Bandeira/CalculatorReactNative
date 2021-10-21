@@ -92,6 +92,7 @@ __*Título*__
       
       
 __*Adicionando TextInput*__
+
       <TextInput
       style={estilo.display}
       keyboardType='numeric'
