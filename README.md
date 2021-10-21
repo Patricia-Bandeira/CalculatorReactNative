@@ -139,13 +139,15 @@ __*Adicionando TextInput*__
       <Text style={estilo.letMULT}> MULTIPLICAR </Text>
       </TouchableHighlight>
 ```
+3.Subtração
+```
 {/*SUBTRAÇÃO*/}
        <TouchableHighlight 
       style={estilo.sub}
-      onPress={()=>sub()}
-      >
+      onPress={()=>sub()}>
       <Text style={estilo.letSUB}> SUBITRAÇÃO </Text>
       </TouchableHighlight>
+      ```
 {/*DIVISÃO*/}
        <TouchableHighlight 
       style={estilo.div}
