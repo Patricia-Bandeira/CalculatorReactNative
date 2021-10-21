@@ -165,6 +165,8 @@ __*Adicionando TextInput*__
       <Text style={estilo.letDIV}> DIVISÃO </Text>
       </TouchableHighlight>
 ```
+![image](https://user-images.githubusercontent.com/92181116/138353598-c2c7d816-148d-4eea-b1b5-0b0c1bfb096e.png)
+
 5.Limpar
 ```
 {/* BOTÂO LIMPAR*/}
