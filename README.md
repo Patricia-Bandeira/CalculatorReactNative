@@ -121,14 +121,14 @@ __*Adicionando TextInput*__
 
   #
   __*Adicionando Botões*__  
+  ```
 {/*SOMA*/}
       <TouchableHighlight 
       style={estilo.soma}
-      onPress={()=>soma()}
-      >
+      onPress={()=>soma()}>
       <Text style={estilo.letSOMA}> SOMAR </Text>
       </TouchableHighlight>
-
+```
 {/*MULTIPLICAÇÃO*/}
        <TouchableHighlight 
       style={estilo.mult}
