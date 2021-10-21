@@ -89,33 +89,28 @@ __*Adicionei um quadrado invisível para que a calculadora fica-se no meio*__
 #
 __*Título*__
       `<Text style={estilo.titulo}> CALCULADORA </Text>` 
+      __*Título*__
       
       
      
-      ```
       <TextInput
       style={estilo.display}
       keyboardType='numeric'
       value={String(valor1)}
       onChangeText={(texto)=> setValor1(texto)}/>
-    ```
-    
     
      <TextInput
       style={estilo.display}
       keyboardType='numeric'
       value={String(valor2)}
       onChangeText={(texto)=> setValor2(texto)}/> 
-      
-    
-    
+         
       <TextInput
       style={estilo.display}
       keyboardType='numeric'
       value={String(resultado)}
       onChangeText={(texto)=> setResultado(texto)}/> 
-    
-    
+ 
     
 {/*SOMA*/}
       <TouchableHighlight 
