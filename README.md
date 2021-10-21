@@ -114,6 +114,9 @@ __*Adicionando TextInput*__
       keyboardType='numeric'
       value={String(resultado)}
       onChangeText={(texto)=> setResultado(texto)}/> 
+      
+      ![image](https://user-images.githubusercontent.com/92181116/138224232-2448be74-ad75-46e1-989a-5997fb873846.png)
+
  
   #
   __*Adicionando Botões*__  
