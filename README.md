@@ -16,7 +16,7 @@ import Constants from 'expo-constants';
 
 export default function App() {
 ```
-
+#
 
 __*Criando variáveis*__ - Valo1, Valor2 e Resultado
 ```
@@ -89,11 +89,9 @@ __*Adicionei um quadrado invisível para que a calculadora fica-se no meio*__
 #
 __*Título*__
       `<Text style={estilo.titulo}> CALCULADORA </Text>` 
-      #
+      
+      
 __*Adicionando TextInput*__
-      
-      
-     
       <TextInput
       style={estilo.display}
       keyboardType='numeric'
