@@ -115,9 +115,10 @@ __*Adicionando TextInput*__
       value={String(resultado)}
       onChangeText={(texto)=> setResultado(texto)}/> 
       
-      ![image](https://user-images.githubusercontent.com/92181116/138224232-2448be74-ad75-46e1-989a-5997fb873846.png)
+      
 
- 
+ ![image](https://user-images.githubusercontent.com/92181116/138224315-c4f9138c-0fbe-4154-844a-b35296cc1737.png)
+
   #
   __*Adicionando Botões*__  
 {/*SOMA*/}
