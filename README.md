@@ -26,29 +26,41 @@ const [resultado,setResultado]=useState(0);
 ``` 
 
 __*Adicionando funções*__
+
+1.Soma
 ```
 const soma = ()=>{
   setResultado(parseFloat(valor1)+parseFloat(valor2))
 }
-
+```
+2.Multiplicação
+```
 const mult = ()=>{
   setResultado(parseFloat(valor1)*parseFloat(valor2))
 }
-
+```
+3.Subtraçao
+```
 const sub = ()=>{
   setResultado(parseFloat(valor1)-parseFloat(valor2))
 }
-
+```
+4.Divisão
+```
 const div = ()=>{
   setResultado(parseFloat(valor1)/parseFloat(valor2))
 }
-
+```
+5.Limpador
+```
 const limpa = ()=>{
   setValor1(0);
   setValor2(0);
   setResultado(0);
 }
-  
+```
+__*Linha branca no início da tela*__
+```
   return (
     <View style={estilo.fundo}>
     <Text style={{ color: 'white',
@@ -56,6 +68,11 @@ const limpa = ()=>{
   fontWeight: 'bold',
   textAlign: 'center',
   backgroundColor: '#6495ED'}}>___________________________</Text>
+```
+![image](https://user-images.githubusercontent.com/92181116/138220138-061a088f-ade5-4bfc-9ab8-7f4e9b1db99d.png)
+
+  
+```
 
    <View style={{resizeMode:'center',paddingLeft: 40, paddingRight: 40,}}>
      <View style={{height: 70, width: 280, backgroundColor:'#836FFF'}}/>
