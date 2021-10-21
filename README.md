@@ -185,6 +185,8 @@ __*Finalização*__
   );
 }
 ```
+__*Aplicando o estilo*__
+```
 const estilo = StyleSheet.create({
   titulo:{
     color:'#00008B',
@@ -271,5 +273,6 @@ const estilo = StyleSheet.create({
    alignItems:'center'
    }
 });
+```
 
 
