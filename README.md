@@ -111,7 +111,8 @@ __*Adicionando TextInput*__
       value={String(resultado)}
       onChangeText={(texto)=> setResultado(texto)}/> 
  
-    
+  #
+  __*Adicionando Botões*__  
 {/*SOMA*/}
       <TouchableHighlight 
       style={estilo.soma}
