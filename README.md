@@ -16,7 +16,7 @@ import Constants from 'expo-constants';
 
 export default function App() {
 ```
-#
+
 
 __*Criando variáveis*__ - Valo1, Valor2 e Resultado
 ```
