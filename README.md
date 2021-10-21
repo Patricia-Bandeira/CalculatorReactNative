@@ -79,32 +79,48 @@ __*Linha branca no início da tela*__
 ![image](https://user-images.githubusercontent.com/92181116/138220138-061a088f-ade5-4bfc-9ab8-7f4e9b1db99d.png)
 
 # 
-```
 
+__*Adicionei um quadrado invisível para que a calculadora fica-se no meio*__
+```
    <View style={{resizeMode:'center',paddingLeft: 40, paddingRight: 40,}}>
      <View style={{height: 70, width: 280, backgroundColor:'#836FFF'}}/>
-      </View>
-
-      
+   </View>
+```
+#
+__*Título*__
+      ```
       <Text style={estilo.titulo}> CALCULADORA </Text>
+      ``` 
+      #
+      
+     
+      
       <TextInput
       style={estilo.display}
       keyboardType='numeric'
       value={String(valor1)}
-      onChangeText={(texto)=> setValor1(texto)}
-    />
+      onChangeText={(texto)=> setValor1(texto)}/>
+    
+    
+    
      <TextInput
       style={estilo.display}
       keyboardType='numeric'
       value={String(valor2)}
       onChangeText={(texto)=> setValor2(texto)}
-      />    
+      /> 
+      
+    
+    
       <TextInput
       style={estilo.display}
       keyboardType='numeric'
       value={String(resultado)}
       onChangeText={(texto)=> setResultado(texto)}
       /> 
+    
+    
+    
 {/*SOMA*/}
       <TouchableHighlight 
       style={estilo.soma}
@@ -233,5 +249,5 @@ const estilo = StyleSheet.create({
    alignItems:'center'
    }
 });
-```
+
 
