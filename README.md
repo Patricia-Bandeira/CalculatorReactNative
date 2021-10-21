@@ -177,6 +177,7 @@ __*Adicionando TextInput*__
       <Text style={estilo.letSOMA}> LIMPAR </Text>
       </TouchableHighlight>
 ```
+![image](https://user-images.githubusercontent.com/92181116/138353677-3af88e85-6108-4fe3-a3a9-6aab1f3e666a.png)
 
 
     </View>
