@@ -6,7 +6,7 @@
  [Click here](https://snack.expo.dev/@patriciaban/7d0bef) to open "CalculatorReactNativeTheBest"
  ![image](https://user-images.githubusercontent.com/92181116/138989652-4e2e1a3f-b6d2-402d-953d-67dc088b67f2.png)
 
-
+#
 [Click here](https://snack.expo.dev/@patriciaban/a7b665) to open "MyCalculator.js"
 ##
 ![image](https://user-images.githubusercontent.com/92181116/138356880-c4165274-5abc-45b0-aba4-487319a73b45.png)
@@ -14,7 +14,7 @@
 
 >>>>>>>>>>Código:
 
-__*Inportando itens necessários*__
+__*Importando itens necessários*__
 ```
 import React, {useState} from 'react';
 import { Text, View, StyleSheet, TextInput, TouchableHighlight, Vibration } from 'react-native';
