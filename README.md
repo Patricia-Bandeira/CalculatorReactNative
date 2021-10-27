@@ -8,7 +8,6 @@
 
 #
 [Click here](https://snack.expo.dev/@patriciaban/a7b665) to open "MyCalculator.js"
-##
 ![image](https://user-images.githubusercontent.com/92181116/138356880-c4165274-5abc-45b0-aba4-487319a73b45.png)
 
 
