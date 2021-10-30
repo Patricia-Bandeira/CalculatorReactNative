@@ -1,4 +1,4 @@
-# Calculator ReactNative
+# Calculator React Native
  *Calculadora feita no Expo online*
  
  Atulalizando minha calculadora pois aprendi novos comandos, caso queira acessar a versão anterior da calculadora veja o arquivo "MyCalculator.js"
