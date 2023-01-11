@@ -1,7 +1,7 @@
 # Calculator React Native
  *Calculadora feita no Expo online*
  
- Atulalizando minha calculadora pois aprendi novos comandos, caso queira acessar a versão anterior da calculadora veja o arquivo "MyCalculator.js"
+ Atulalizando minha calculadora pois aprendi novos comandos, caso queira acessar a versão anterior da calculadora veja o arquivo __*"MyCalculator.js"*__
  #
  [Click here](https://snack.expo.dev/@patriciaban/7d0bef) to open "CalculatorReactNativeTheBest"
  > ![image](https://user-images.githubusercontent.com/92181116/138989652-4e2e1a3f-b6d2-402d-953d-67dc088b67f2.png)
